@@ -1,0 +1,4 @@
+#Wed Nov 06 21:15:53 IST 2019
+base.0=E\:\\BookMyShow-clone-Flutter\\BookMyShow-clone-Flutter-master\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
